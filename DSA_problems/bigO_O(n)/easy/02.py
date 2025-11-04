@@ -1,4 +1,5 @@
-
+#Return both max and min in one pass.
+#(using while loop)
 def max_min():
     my_list=[]
     while True:
@@ -12,6 +13,7 @@ def max_min():
     print("The maximum of list is: ",maximum, "\nThe minimum of list is:  ", minimum )
 max_min()
 
+#(using for loop)
 def max_min():
     my_list=[]
     n=int(input("Enter the number of elements you want in list: "))

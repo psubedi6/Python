@@ -1,5 +1,4 @@
-#Count how many times a given number appears in an array.
-#using while loop
+#Count how many times a given number appears in an array. using while loop
 def max_min():
     my_list=[]
     while True:

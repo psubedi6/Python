@@ -7,4 +7,4 @@ for i in range(n):
     mylist.append(ele)
 for i in range(0,n):
     sum= mylist[i]+ sum
-    print(sum)
+print(sum)

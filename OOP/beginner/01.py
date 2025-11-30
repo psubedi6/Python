@@ -9,4 +9,4 @@ class Person:
         print(f"Hello {self.name}, You are {self.age} years old")
 
 p1= Person("Prakash", "24")
-p1.greet()
+print(p1.greet())

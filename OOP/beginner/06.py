@@ -1,4 +1,4 @@
-#mplement an Employee class and a Manager class that inherits Employee. Manager should have an extra method hire().
+#implement an Employee class and a Manager class that inherits Employee. Manager should have an extra method hire().
 class Employee:
     def __init__(self, name, salary):
         self.name= name
